@@ -1,6 +1,6 @@
 # Java Assignment 1
 
-July 18, Assignment 1
-Answer.txt
-Java
-Lucy assisted me with the assignment by thoroughly explaining how to approach and complete it.
+<p>July 18, Assignment 1</p>
+<p>Answer.txt</p>
+<p>Java</p>
+<p>Lucy assisted me with the assignment by thoroughly explaining how to approach and complete it.</p>
